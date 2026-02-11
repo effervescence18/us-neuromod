@@ -28,8 +28,7 @@ Usage examples:
     # Custom hyperparameters
     python forward_model_unet.py --data_dir /path/to/data --base_features 32 --epochs 100 --lr 3e-4
 
-Authors: Arthur & collaborator
-Repository: github.com/effervescence18/us-neuromod
+
 """
 
 import argparse
